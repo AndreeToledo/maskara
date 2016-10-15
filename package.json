@@ -1,0 +1,19 @@
+{
+  "name": "maskara",
+  "version": "1.0.0",
+  "description": "Double masked phone comunication made simple.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tosp/maskara.git"
+  },
+  "author": "Andree Toledo, tosp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tosp/maskara/issues"
+  },
+  "homepage": "https://github.com/tosp/maskara#readme"
+}
