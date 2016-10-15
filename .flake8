@@ -2,7 +2,7 @@
 exclude =
     .git,
     __pycache__,
-    tospHome/settings/*,
+    maskara/settings/*,
     */migrations/*,
    	./manage.py
 max-line-length=99
